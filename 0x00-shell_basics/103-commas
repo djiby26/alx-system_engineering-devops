@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mpaXv; echo \n
+ls -mpaXv echo \n
